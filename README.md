@@ -1,7 +1,5 @@
 - 👋 Hi, I’m AK
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on Landing Pages and HTML Email
+- 👀 I’m interested in all things IT
 - 📫 Reach me @ AK#2267 on Discord
 
 <!---
