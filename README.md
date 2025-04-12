@@ -1,5 +1,7 @@
 - 👋 Hi, I’m AK
 - 👀 I’m interested in all things IT
+- Currently Learning Power Platform and Cloud
+- Happy Learning!
 - 📫 Reach me @ AK#2267 on Discord
 
 <!---
